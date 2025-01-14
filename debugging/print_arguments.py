@@ -2,6 +2,6 @@
 import sys
 
 
-for i in rang(len(sys.argv[i])):
+for i in rang(1,len(sys.argv[i])):
     print(sys.argv[i])
 
